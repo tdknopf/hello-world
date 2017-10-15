@@ -2,4 +2,4 @@
 
 Hi Humans!
 
-Trist here, I like learning to code. 
+Trist here, I like coding. 
